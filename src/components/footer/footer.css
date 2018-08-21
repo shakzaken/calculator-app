@@ -1,0 +1,22 @@
+.footer{
+  
+  height:100px;
+  display: flex;
+  
+}
+
+.footer a{
+  color:black;
+  display: block;
+  text-align: left;
+  
+}
+
+.footer-left{
+  padding-left:100px;
+ 
+}
+
+.footer-right{
+  margin-left: 100px;
+}

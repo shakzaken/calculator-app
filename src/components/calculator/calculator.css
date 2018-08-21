@@ -1,0 +1,39 @@
+.calc{
+  margin-top: 100px;
+  height: 500px;
+}
+
+.buttons{
+  margin-left:50%;
+  width:30%;
+  max-width: 500px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+
+.panel{
+  width:30%;
+  margin-left:50%;
+  margin-bottom: 30px;
+  max-width: 500px;
+ 
+}
+
+.calc-panel{
+  display: inline-block;
+  width: 70%;
+  overflow: hidden;
+  padding: 10px;
+  margin-right:5%;
+  
+}
+
+.num-panel{
+  display: inline-block;
+  width: 25%;
+  overflow: hidden;
+  padding: 10px;
+}
+
